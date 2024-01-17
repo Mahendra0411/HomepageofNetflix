@@ -32,10 +32,4 @@ Considered placeholders for images and optimized content loading for improved pe
 
 This is a brief overview, and the actual implementation might involve more detailed coding and customization based on specific design choices and requirements.
 
-This is a brief overview, and the actual implementation might involve more detailed coding and customization based on specific design choices and requirements.
-
-This is a brief overview, and the actual implementation might involve more detailed coding and customization based on specific design choices and requirements.
-
-This is a brief overview, and the actual implementation might involve more detailed coding and customization based on specific design choices and requirements.
-
 
